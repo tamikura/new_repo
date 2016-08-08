@@ -2,4 +2,4 @@
 
 * 必要なもの
   * ruby
-  * Linux/Windooows
+  * Linux/Windows
