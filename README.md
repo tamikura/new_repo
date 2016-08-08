@@ -1,5 +1,5 @@
-* About New APP
+# About New APP
 
 * 必要なもの
   * ruby
-  * Linux
+  * Linux/Windooows
